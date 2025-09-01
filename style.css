@@ -1,0 +1,35 @@
+
+ .div1{
+    background-color:black;
+    color: white;
+}
+.text-center{
+    text-align: center;
+}
+.bg-gray{
+    background-color: gray;
+}
+hr{
+    background-color: black;
+}
+
+/* Table Styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 12px;
+    text-align: center;
+}
+
+.tab {
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
